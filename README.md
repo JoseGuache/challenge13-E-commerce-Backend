@@ -30,7 +30,6 @@ A robust backend system for an e-commerce website built using Express.js API and
    DB_NAME='ecommerce_db'
    DB_USER='your_username'
    DB_PASSWORD='your_password'
-   DB_HOST='localhost'
    ```
 5. Set up the database:
    ```bash
